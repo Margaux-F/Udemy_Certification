@@ -1,0 +1,1 @@
+{"nom": "Paul", "age": 24, "amis": ["Sophie", "Marie", "Jean"]}
